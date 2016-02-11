@@ -1,5 +1,6 @@
 // http://bootsnipp.com/snippets/featured/dynamic-table-row-creation-and-deletionS
 
+
 $(document).ready(function() {
   var i = 1;
   $("#add-row").click(function() {
